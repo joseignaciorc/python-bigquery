@@ -5,6 +5,18 @@
 [1]: https://pypi.org/project/google-cloud-bigquery/#history
 
 
+## [3.12.0](https://github.com/googleapis/python-bigquery/compare/v3.11.4...v3.12.0) (2023-08-23)
+
+
+### Features
+
+* Widen retry predicate to include ServiceUnavailable ([#1641](https://github.com/googleapis/python-bigquery/issues/1641)) ([3e021a4](https://github.com/googleapis/python-bigquery/commit/3e021a46d387a0e3cb69913a281062fc221bb926))
+
+
+### Bug Fixes
+
+* Relax timeout expectations ([#1645](https://github.com/googleapis/python-bigquery/issues/1645)) ([1760e94](https://github.com/googleapis/python-bigquery/commit/1760e945d16163980027fecf21113cd77ddc35a1))
+
 ## [3.11.4](https://github.com/googleapis/python-bigquery/compare/v3.11.3...v3.11.4) (2023-07-19)
 
 
